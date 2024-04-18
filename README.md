@@ -1,7 +1,7 @@
 # Bacterial Flagellar Motor Detection
 In this object detection work we aim to locate bacterial flagellar motors from 2D cryogenic electromagnetic images leveraging a RCNN with a ResNet50 backbone in pytorch.
 
-![Project Image](readme_images/description.png)
+<img src="readme_images/description.png" alt="Project Image" width="600">
 
 ## Table of Contents
 - [Files](#files)
@@ -44,6 +44,8 @@ In fine-tuning the pre-trained model were were able to drastically decrease the 
 ![Dataset Loss](readme_images/loss.png)
 
 ## Authors
+
 Noah Andersen https://github.com/noah-andersen
+
 Hunter Davis  https://github.com/kingarthurdavis78
 
